@@ -1,1 +1,3 @@
-# rent-car-web
+Within a day, I successfully completed my Rent a Car website project, ensuring all five pages, including the home page, are fully responsive. On the home page, clicking "View All" or "View All Cars" redirects users to the Categories page. The Categories page initially displays the first eight car listings, and the remaining four appear only after clicking the "Show More" button. The second car on the main page, a Toyota Corolla, features a "Rent Now" button that navigates users to the Payment page. Additionally, at the bottom of the page, there is another "Rent Now" button that leads to the Admin page. If the user clicks on the Toyota Corolla car in the Categories page, it takes them to the Car Details page, where further information about the car is displayed.
+
+This responsive and user-friendly design ensures smooth navigation and an engaging experience for users looking to rent cars efficiently.
